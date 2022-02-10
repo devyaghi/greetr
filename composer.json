@@ -1,0 +1,15 @@
+{
+    "name": "simplexi/greetr",
+    "autoload": {
+        "psr-4": {
+            "Simplexi\\Greetr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yaghimac",
+            "email": "yaghi.moh@gmail.com"
+        }
+    ],
+    "require": {}
+}
